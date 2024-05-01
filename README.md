@@ -24,12 +24,7 @@ Antes de comenzar, asegurate de tener instalado:
 
 Una vez que tengas instalado sigue estos pasos para ejecutar la aplicacion.
 1. Clonar el Repositorio en tu entorno local.
-2. Navega al directorio de tu proyecto:
-  
-   ```
-   cd appreact
-    
-    ```
+2. Navega hasta el directorio del proyecto:
 3. Instalar dependencias: Ve al directorio raíz de la aplicación clonada e instala las dependencias ejecutando el siguiente comando:
 
     ```
